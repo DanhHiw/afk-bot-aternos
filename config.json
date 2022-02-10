@@ -1,0 +1,9 @@
+{
+	"ip":"DinoLmao.aternos.me",
+	"port": "31175",
+	"name": "bot247",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register DITMECON__bot1230909 DITMECON__bot1230909",
+	"login-cmd":"/login DITMECON__bot1230909"
+}
